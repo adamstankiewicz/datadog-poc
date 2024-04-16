@@ -55,6 +55,7 @@
     "regenerator-runtime": "0.14.1"
   },
   "devDependencies": {
+    "@datadog/browser-rum": "^5.15.0",
     "@edx/browserslist-config": "^1.1.1",
     "@edx/reactifex": "^2.1.1",
     "@openedx/frontend-build": "13.1.4",
